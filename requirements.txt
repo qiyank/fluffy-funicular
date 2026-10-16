@@ -1,0 +1,2 @@
+# 桌面预览所需依赖（打包 APK 时以 buildozer.spec 里的 requirements 为准）
+kivy>=2.3.0
