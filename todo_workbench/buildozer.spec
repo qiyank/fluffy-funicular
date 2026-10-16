@@ -29,7 +29,7 @@ icon.filename = assets/icon.png
 # presplash.filename = assets/icon.png
 
 # 屏幕方向：all 表示跟随系统旋转（折叠屏展开/合上都会自适应）
-orientation = all
+orientation = fullSensor
 
 fullscreen = 0
 android.allow_backup = True
